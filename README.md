@@ -9,3 +9,8 @@ It allows you to:
 - See missing priorities to help assign new tasks
 
 ---
+
+Note : test.py is a file meant to test if the functions for TodoApp are working properly. Use main.py as entrypoint for the ClI
+```
+python main.py
+```
