@@ -10,7 +10,7 @@ It allows you to:
 
 ---
 
-Note : test.py is a file meant to test if the functions for TodoApp are working properly. Use main.py as entrypoint for the ClI
+Note : test.py is a file meant to test if the functions for TodoApp are working properly. Use main.py as entrypoint for the CLI
 ```
 python main.py
 ```
